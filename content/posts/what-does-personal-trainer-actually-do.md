@@ -8,15 +8,7 @@ summary: "Confused about what a personal trainer really does? Aaron Curtis break
 
 # What Does a Personal Trainer Actually Do? Setting the Record Straight
 
-Let's clear something up right from the start. I'm a personal trainer, not a psychologist, nutritionist, life coach, or your personal assistant. Yet somehow, I often find myself being treated as all of the above. Don't get me wrong – I care about my clients' success – but there seems to be some serious confusion about what my role actually entails.
-
 If you've ever wondered what you're really paying for when you hire a personal trainer, or if you're on the fence about whether you need one, this post is for you.
-
-## The Misconceptions About Personal Training
-
-Too often, people expect their trainer to be held accountable for everything that happens outside our 30-60 minute sessions each week. They want me to monitor every morsel that goes into their mouth, solve their motivation problems, and somehow magically transform their entire lifestyle.
-
-Here's the reality: while I'm passionate about helping you succeed, I'm not responsible for your choices when you leave the gym. That accountability lies with you.
 
 ## What I Actually Do as Your Personal Trainer
 
@@ -71,14 +63,14 @@ Success in fitness isn't about having someone hold your hand through every life 
 - Building sustainable habits
 - Avoiding injuries and setbacks
 
-The most successful clients I work with understand that I'm here to guide their training, not manage their entire life. They take ownership of their choices while leveraging my expertise to make their gym time as effective as possible.
+The most successful clients I work with understand that I'm here to guide their training. They take ownership of their choices while leveraging my expertise to make their gym time as effective as possible.
 
 ## The Bottom Line
 
-A personal trainer's job is to be your fitness expert, not your life manager. We're here to design programs that work, teach you proper technique, and help you navigate the overwhelming world of fitness information.
+A personal trainer's job is to be your fitness expert. We're here to prescribe safe and appropriate exercises, teach you proper exercise technique, design programs that are effective and quatifiable, and help you navigate the overwhelming world of fitness information.
 
 If you're tired of wasting time with ineffective workouts, confused by conflicting online advice, or simply want to train with confidence and purpose, that's exactly what professional training can provide.
 
 Remember: the goal isn't to create dependence – it's to empower you with the knowledge and skills to succeed. Whether that's for a few months while you learn the basics or for years as you pursue advanced goals, a good trainer will always have your long-term success in mind.
 
-Ready to stop wasting time and start seeing real results? Let's focus on what actually matters: smart programming, proper execution, and consistent progress. Everything else is just noise.
+Ready to stop treading water and start seeing real results? Let's focus on what actually matters: smart programming, proper execution, and consistent progress. Everything else is just noise.
