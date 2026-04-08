@@ -67,7 +67,7 @@ The most successful clients I work with understand that I'm here to guide their 
 
 ## The Bottom Line
 
-A personal trainer's job is to be your fitness expert. We're here to design provided safe and appropriate exercise prescription, teach you proper technique, design programs that are effective and quatifiable, and help you navigate the overwhelming world of fitness information.
+A personal trainer's job is to be your fitness expert. We're here to provided safe and appropriate exercise prescription, teach you proper technique, design programs that are effective and quatifiable, and help you navigate the overwhelming world of fitness information.
 
 If you're tired of wasting time with ineffective workouts, confused by conflicting online advice, or simply want to train with confidence and purpose, that's exactly what professional training can provide.
 
