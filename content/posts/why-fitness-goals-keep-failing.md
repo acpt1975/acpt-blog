@@ -1,7 +1,7 @@
 ---
 title: "Why Your Fitness Goals Keep Failing (And How to Finally Make Them Stick)"
 date: 2024-12-19T10:30:00+10:00
-draft: true
+draft: false
 tags: ["fitness goals", "motivation", "habit formation", "personal training", "mindset"]
 summary: "Discover why most fitness goals fail and learn practical strategies to create lasting change that actually sticks, from a FITREC-certified personal trainer's perspective."
 ---
