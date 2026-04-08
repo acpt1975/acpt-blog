@@ -8,15 +8,7 @@ summary: "Confused about what a personal trainer really does? Aaron Curtis break
 
 # What Does a Personal Trainer Actually Do? Setting the Record Straight
 
-Let's clear something up right from the start. I'm a personal trainer, not a psychologist, nutritionist, life coach, or your personal assistant. Yet somehow, I often find myself being treated as all of the above. Don't get me wrong – I care about my clients' success – but there seems to be some serious confusion about what my role actually entails.
-
 If you've ever wondered what you're really paying for when you hire a personal trainer, or if you're on the fence about whether you need one, this post is for you.
-
-## The Misconceptions About Personal Training
-
-Too often, people expect their trainer to be held accountable for everything that happens outside our 30-60 minute sessions each week. They want me to monitor every morsel that goes into their mouth, solve their motivation problems, and somehow magically transform their entire lifestyle.
-
-Here's the reality: while I'm passionate about helping you succeed, I'm not responsible for your choices when you leave the gym. That accountability lies with you.
 
 ## What I Actually Do as Your Personal Trainer
 
@@ -56,7 +48,7 @@ Many people avoid the gym because they simply don't know what they're doing. The
 Instead of spending hours researching exercises, wondering if you're doing them right, or trying random workouts, you get straight to what works. [Research shows](https://journals.lww.com/nsca-jscr/fulltext/2020/04000/effects_of_supervised_vs__unsupervised_training.26.aspx) that supervised training typically produces better results in less time.
 
 ### **Injury Prevention**
-Poor form and inappropriate exercise selection are leading causes of gym injuries. Professional guidance significantly reduces your risk of setbacks that could derail your progress for weeks or months.
+Poor form, inappropriate exercise selection and lifting too heavy too soon without going through the process of building a strong foundation are leading causes of gym injuries. Professional guidance significantly reduces your risk of setbacks that could derail your progress for weeks, months or even years.
 
 ### **Avoiding the Trap of Endless Searching**
 How many years could you waste following ineffective programs? How much money could you spend on supplements and gadgets that promise shortcuts? A good trainer helps you avoid these costly mistakes.
@@ -71,14 +63,14 @@ Success in fitness isn't about having someone hold your hand through every life 
 - Building sustainable habits
 - Avoiding injuries and setbacks
 
-The most successful clients I work with understand that I'm here to guide their training, not manage their entire life. They take ownership of their choices while leveraging my expertise to make their gym time as effective as possible.
+The most successful clients I work with understand that I'm here to guide their training. They take ownership of their choices while leveraging my expertise to make their gym time as effective as possible. 
 
 ## The Bottom Line
 
-A personal trainer's job is to be your fitness expert, not your life manager. We're here to design programs that work, teach you proper technique, and help you navigate the overwhelming world of fitness information.
+A personal trainer's job is to be your fitness expert, not your psychologist, physiotherapist, nutritionist, motivational speaker or life coach. Frankly any trainer taking on those resposibilities without the necessary education and qualifications is chartering into dangerous territory well outside their professional scope of practice and I'd suggest you start your new exercise program by running in the other direction. The fact is personal training is a highly specialised field in itself within the fitness and allied health professions. Personal trainers are here to provide you with safe and appropriate exercise prescription, teach you proper exercise technique, design exercise programs that are effective and produce quantifiable results and help you navigate the overwhelming world of fitness information and misinformation.
 
 If you're tired of wasting time with ineffective workouts, confused by conflicting online advice, or simply want to train with confidence and purpose, that's exactly what professional training can provide.
 
 Remember: the goal isn't to create dependence – it's to empower you with the knowledge and skills to succeed. Whether that's for a few months while you learn the basics or for years as you pursue advanced goals, a good trainer will always have your long-term success in mind.
 
-Ready to stop wasting time and start seeing real results? Let's focus on what actually matters: smart programming, proper execution, and consistent progress. Everything else is just noise.
+Ready to stop treading water and start seeing real results? Let's focus on what actually matters: smart programming, proper execution, and consistent progress. Everything else is just noise.
