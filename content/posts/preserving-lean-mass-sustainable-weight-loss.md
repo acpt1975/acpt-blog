@@ -1,5 +1,5 @@
 ---
-title: "Why Preserving Lean Mass is Your Secret Weapon for Sustainable Weight Loss"
+title: "3 Reasons Why Weight Training Beats Cardio For Sustainable Weight Loss"
 date: 2024-12-28T09:30:00+10:00
 draft: true
 tags: ["weight loss", "lean mass", "muscle preservation", "metabolism", "body composition", "strength training"]
