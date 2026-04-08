@@ -1,7 +1,7 @@
 ---
 title: "3 Reasons Why Weight Training Beats Cardio For Sustainable Weight Loss"
 date: 2024-12-28T09:30:00+10:00
-draft: true
+draft: false
 tags: ["weight loss", "lean mass", "muscle preservation", "metabolism", "body composition", "strength training"]
 summary: "Discover the three critical reasons why preserving lean muscle mass during weight loss isn't just beneficial—it's essential for achieving lasting results and preventing future weight regain."
 ---
