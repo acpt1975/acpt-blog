@@ -1,7 +1,7 @@
 ---
 title: "What Does a Personal Trainer Actually Do? Setting the Record Straight"
 date: 2024-12-28T10:30:00+10:00
-draft: true
+draft: false
 tags: ["personal training", "fitness myths", "workout programming", "gym guidance", "fitness education"]
 summary: "Confused about what a personal trainer really does? Aaron Curtis breaks down the misconceptions and reveals the true value of professional fitness guidance."
 ---
